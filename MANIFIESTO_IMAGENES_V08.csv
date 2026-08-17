@@ -1,0 +1,56 @@
+faccion,codigo,nombre,imagen
+roma,ROM-001,"Manípulo de Hastati",assets/images/v08/cards/ROM-001.png
+roma,ROM-003,"Principes Veteranos",assets/images/v08/cards/ROM-003.png
+roma,ROM-005,"Triarii de la Reserva",assets/images/v08/cards/ROM-005.png
+roma,ROM-007,"Velites de Vanguardia",assets/images/v08/cards/ROM-007.png
+roma,ROM-009,"Equites Romanos",assets/images/v08/cards/ROM-009.png
+roma,ROM-011,"Infantería Latina",assets/images/v08/cards/ROM-011.png
+roma,ROM-016,"Extraordinarii Pedites",assets/images/v08/cards/ROM-016.png
+roma,ROM-022,"Escorpiones Romanos",assets/images/v08/cards/ROM-022.png
+roma,ROM-026,"Quinquerreme Romana",assets/images/v08/cards/ROM-026.png
+roma,ROM-033,"Trirremes de Massalia",assets/images/v08/cards/ROM-033.png
+roma,ROM-034,"Supervivientes de Cannas",assets/images/v08/cards/ROM-034.png
+roma,ROM-035,"Defensores de Nola",assets/images/v08/cards/ROM-035.png
+roma,ROM-045,"Quinto Fabio Máximo",assets/images/v08/cards/ROM-045.png
+roma,ROM-047,"Cayo Lelio",assets/images/v08/cards/ROM-047.png
+roma,ROM-053,"Castra Romana",assets/images/v08/cards/ROM-053.png
+roma,ROM-055,"Torre de Vigilancia Republicana",assets/images/v08/cards/ROM-055.png
+roma,ROM-058,"Cabeza de Puente del Ebro",assets/images/v08/cards/ROM-058.png
+roma,ROM-059,"Campamento de Invierno",assets/images/v08/cards/ROM-059.png
+roma,ROM-061,"Triple Línea Manipular",assets/images/v08/cards/ROM-061.png
+roma,ROM-062,"Avance de los Hastati",assets/images/v08/cards/ROM-062.png
+roma,ROM-065,"Disciplina de la Legión",assets/images/v08/cards/ROM-065.png
+roma,ROM-067,"Estrategia Fabiana",assets/images/v08/cards/ROM-067.png
+roma,ROM-069,"Desembarco en África",assets/images/v08/cards/ROM-069.png
+roma,ROM-076,"Mantener la Línea",assets/images/v08/cards/ROM-076.png
+roma,ROM-078,"Cerrar Filas",assets/images/v08/cards/ROM-078.png
+roma,ROM-080,"Intervención de los Triarii",assets/images/v08/cards/ROM-080.png
+roma,NEU-019,"Terreno Elevado",assets/images/v08/cards/NEU-019.png
+roma,NEU-026,"Cambio de Viento",assets/images/v08/cards/NEU-026.png
+cartago,CAR-001,"Infantería Libiofenicia",assets/images/v08/cards/CAR-001.png
+cartago,CAR-004,"Veteranos de Italia",assets/images/v08/cards/CAR-004.png
+cartago,CAR-006,"Scutarii Íberos",assets/images/v08/cards/CAR-006.png
+cartago,CAR-008,"Guerreros Celtíberos",assets/images/v08/cards/CAR-008.png
+cartago,CAR-012,"Honderos Baleares",assets/images/v08/cards/CAR-012.png
+cartago,CAR-014,"Caballería Númida",assets/images/v08/cards/CAR-014.png
+cartago,CAR-018,"Elefantes de Guerra",assets/images/v08/cards/CAR-018.png
+cartago,CAR-021,"Exploradores Númidas",assets/images/v08/cards/CAR-021.png
+cartago,CAR-028,"Quinquerreme Cartaginesa",assets/images/v08/cards/CAR-028.png
+cartago,CAR-035,"Supervivientes de los Alpes",assets/images/v08/cards/CAR-035.png
+cartago,CAR-036,"Centro Galo de Cannas",assets/images/v08/cards/CAR-036.png
+cartago,CAR-039,"Veteranos de Trebia",assets/images/v08/cards/CAR-039.png
+cartago,CAR-045,"Maharbal",assets/images/v08/cards/CAR-045.png
+cartago,CAR-046,"Asdrúbal Barca",assets/images/v08/cards/CAR-046.png
+cartago,CAR-053,"Campamento Púnico",assets/images/v08/cards/CAR-053.png
+cartago,CAR-054,"Empalizada de Sagunto",assets/images/v08/cards/CAR-054.png
+cartago,CAR-055,"Torre de Nueva Cartago",assets/images/v08/cards/CAR-055.png
+cartago,CAR-058,"Campamento de los Alpes",assets/images/v08/cards/CAR-058.png
+cartago,CAR-061,"Cruce de los Alpes",assets/images/v08/cards/CAR-061.png
+cartago,CAR-062,"Doble Envolvimiento",assets/images/v08/cards/CAR-062.png
+cartago,CAR-065,"Carga de Elefantes",assets/images/v08/cards/CAR-065.png
+cartago,CAR-066,"Hostigamiento Númida",assets/images/v08/cards/CAR-066.png
+cartago,CAR-069,"Reclutar Mercenarios",assets/images/v08/cards/CAR-069.png
+cartago,CAR-076,"Fingir Retirada",assets/images/v08/cards/CAR-076.png
+cartago,CAR-077,"Carga por el Flanco",assets/images/v08/cards/CAR-077.png
+cartago,CAR-079,"Cerrar la Trampa",assets/images/v08/cards/CAR-079.png
+cartago,NEU-028,"Emboscada Local",assets/images/v08/cards/NEU-028.png

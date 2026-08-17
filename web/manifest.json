@@ -1,0 +1,10 @@
+{
+  "name": "Chrono Legions CL_V0.72b",
+  "short_name": "Chrono Legions",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111614",
+  "theme_color": "#111614",
+  "description": "Beta local de Chrono Legions con Órdenes y dados.",
+  "orientation": "landscape"
+}

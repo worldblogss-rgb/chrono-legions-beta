@@ -1,0 +1,23 @@
+﻿name: wco_game_v0_8
+description: Chrono Legions - campo tactico V0.8
+publish_to: "none"
+version: 0.8.0+8
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/v08/
+    - assets/images/v08/cards/
